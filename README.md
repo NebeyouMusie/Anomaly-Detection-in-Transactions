@@ -57,7 +57,7 @@
 
 ## Acknowledgments
  - I would like to thank [Aman Kharwal](https://www.linkedin.com/in/aman-kharwal)
- - 
+   
 ## Contact
- - Gmail: [nebeyoumusie@gmail.com](nebeyoumusie@gmail.com)
+ - Gmail: nebeyoumusie@gmail.com
  - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
