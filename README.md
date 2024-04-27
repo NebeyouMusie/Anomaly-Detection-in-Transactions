@@ -3,7 +3,7 @@
 
 ## What is its usecase?
  - This is particularly valuable in the financial sector, where it can help combat fraud and ensure the security of user accounts. Here's a breakdown of its key usecase:
-    **Fraud Detection:**
+    - **Fraud Detection:**
        - By analyzing vast amounts of transaction data, anomaly detection systems can learn typical spending habits of users. This includes factors like average transaction amount, 
          frequency of purchases, and typical merchant locations.
        - When a transaction deviates significantly from these patterns, for instance, a sudden large purchase or a transaction from an unfamiliar location, the system can flag it as               potentially fraudulent.
