@@ -59,5 +59,6 @@
  - I would like to thank [Aman Kharwal](https://www.linkedin.com/in/aman-kharwal)
    
 ## Contact
+ - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
  - Gmail: nebeyoumusie@gmail.com
  - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
