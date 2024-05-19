@@ -26,7 +26,7 @@
   12. Account_Type: Type of account (e.g., personal, business).
   
 ## Model Description
- - The model I have used is IsolationForest, you can check the model's training process in the `transaction_anomalies_dataset.csv` notebook
+ - The model I have used is IsolationForest, you can check the model's training process in the `anomaly_detection.ipynb` notebook
 
 ## Libraries Used
  - Pandas
@@ -52,8 +52,8 @@
     - python -m venv venv
     - source venv/bin/activate
  4. Install Libraries: `pip install pandas matplotlib seaborn scikit-learn`
- 5. Open `transaction_anomalies_dataset.csv` and run all cells
- 6. Or you can download the onlinefoods.csv and `transaction_anomalies_dataset.csv` file from the repository, upload those files to [Google Colab](https://colab.research.google.com/) then run all the cells in the `transaction_anomalies_dataset.csv` Notebook
+ 5. Open `anomaly_detection.ipynb` and run all cells
+ 6. Or you can download the onlinefoods.csv and `transaction_anomalies_dataset.csv` file from the repository, upload those files to [Google Colab](https://colab.research.google.com/) then run all the cells in the `anomaly_detection.ipynb` Notebook
 
 ## Acknowledgments
  - I would like to thank [Aman Kharwal](https://www.linkedin.com/in/aman-kharwal)
